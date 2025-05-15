@@ -8,8 +8,8 @@ This project demonstrates how SQL can be used to perform data analysis on an E-c
 
 ## 🛠️ Tools Used
 
-- **SQL Engine**: SQLite / MySQL / PostgreSQL (standard SQL used)
-- **IDE/Editor**: DB Browser for SQLite, MySQL Workbench, or pgAdmin
+- **SQL Engine**: MySQL 
+- **IDE/Editor**: MySQL Workbench
 - **Version Control**: Git & GitHub
 
 ---
